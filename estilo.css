@@ -37,6 +37,11 @@ body{
 	justify-content: center;
 }
 
+.txtMostrar{
+	display: flex;
+	justify-content: center;
+}
+
 .btn-button{
 	margin-left: 5px;
 	background-color: yellow;
